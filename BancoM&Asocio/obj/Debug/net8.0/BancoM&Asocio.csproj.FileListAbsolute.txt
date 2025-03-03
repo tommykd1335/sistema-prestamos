@@ -1,0 +1,14 @@
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\bin\Debug\net8.0\BancoM&Asocio.exe
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\bin\Debug\net8.0\BancoM&Asocio.deps.json
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\bin\Debug\net8.0\BancoM&Asocio.runtimeconfig.json
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\bin\Debug\net8.0\BancoM&Asocio.dll
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\bin\Debug\net8.0\BancoM&Asocio.pdb
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\obj\Debug\net8.0\BancoM&Asocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\obj\Debug\net8.0\BancoM&Asocio.AssemblyInfoInputs.cache
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\obj\Debug\net8.0\BancoM&Asocio.AssemblyInfo.cs
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\obj\Debug\net8.0\BancoM&Asocio.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\obj\Debug\net8.0\BancoM&Asocio.dll
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\obj\Debug\net8.0\refint\BancoM&Asocio.dll
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\obj\Debug\net8.0\BancoM&Asocio.pdb
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\obj\Debug\net8.0\BancoM&Asocio.genruntimeconfig.cache
+C:\Users\Tommy\OneDrive\Desktop\Universidad\Programacion II\BancoM&Asocio\BancoM&Asocio\obj\Debug\net8.0\ref\BancoM&Asocio.dll
